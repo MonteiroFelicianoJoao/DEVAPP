@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AtividadeDevApp</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTRO</string>
+    <string name="hello">Olá,</string>
+    <string name="your_cpf">Seu CPF é</string>
+    <string name="password">Sua senha é:</string>
+    <string name="present_login">Seu Login é: </string>
+</resources>
