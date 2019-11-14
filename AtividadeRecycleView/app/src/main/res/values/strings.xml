@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LOG DE ATIVIDADES</string>
+    <string name="textview">TextView</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTRAR</string>
+    <string name="hello">Olá,</string>
+    <string name="your_cpf">Seu CPF é: </string>
+    <string name="present_login">Seu Login é: </string>
+    <string name="your_login">Seu login:</string>
+    <string name="your_password">Sua senha é: </string>
+    <string name="custom_tittle">Nova Atividade</string>
+    <string name="custom_message">Título</string>
+    <string name="custom_dialog_save">SALVAR</string>
+    <string name="custom_dialog_cancel">CANCELAR</string>
+    <string name="hint_new_task" />
+</resources>
